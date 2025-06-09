@@ -9,7 +9,7 @@ const currencies = [
   // { name: "United States Dollar", code: "USD", symbol: "$" },
   // { name: "British Pound Sterling", code: "GBP", symbol: "£" },
   // { name: "Euro", code: "EUR", symbol: "€" },
-  // { name: "Canadian Dollar", code: "CAD", symbol: "$" },
+  { name: "Namibian Dollar", code: "NAD", symbol: "NAD" },
   { name: "Indian Rupee", code: "INR", symbol: "₹" },
 ];
 const currencySymbols = {
