@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    width: 7px;
+    margin: 10px 0;
+    z-index: 0;
+    display: none;
+  }
+
+  .tooltip-container:hover .absolute {
+    display: block;
+  }
+  
+  /* Track
+  ::-webkit-scrollbar-track {
+    background: #FFF8DA;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #FFCD03;
+  }
+  
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  } */
